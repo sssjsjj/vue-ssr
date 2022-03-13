@@ -1,2 +1,2 @@
 # vue-ssr
-Vue width SSR + CSR
+Vue with SSR + CSR
